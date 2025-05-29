@@ -1,1 +1,2 @@
 Example one text file
+Example two text file
